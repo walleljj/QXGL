@@ -27,6 +27,7 @@ public class PermissionResources {
 	public PermissionResources() {
 		super();
 		// TODO Auto-generated constructor stub
+		//测试
 	}
 	
 
